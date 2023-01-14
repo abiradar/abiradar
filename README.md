@@ -2,6 +2,7 @@
 
 <!--
 **abiradar/abiradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 My name is Ankit Biradar.
 
@@ -12,5 +13,3 @@ My name is Ankit Biradar.
 
 ## Languages and Tools
 SQL (MySQL), Python, dbt, Airflow and Google Cloud Platform (GCP)
-
--->
